@@ -19,7 +19,7 @@
     "vue-router": "4.0.3",
     "xterm": "4.19.0",
     "xterm-addon-attach": "0.6.0",
-    "xterm-addon-fit": "0.5.0"
+    "xterm-addon-fit": "0.8.0"
   },
   "devDependencies": {
     "@babel/core": "7.12.16",
